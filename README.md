@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Xin chào! Mình là Phạm Mạnh Cường
 
-<!--
-**n19dcat009/n19dcat009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên An toàn thông tin  
+🔐 Yêu thích CTF, Pentest, và bảo mật hệ thống
 
-Here are some ideas to get you started:
+## 🛠️ Công cụ & Ngôn ngữ
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6600?style=flat&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Dự án nổi bật
+- [🔍 Malware-Analyzer](https://github.com/phammancuong/Malware-Analyzer) – Phân tích mã độc đơn giản bằng Python
+- [🔐 Mini-Firewall](https://github.com/phammancuong/Mini-Firewall) – Mô phỏng tường lửa cơ bản
+
+## 📊 Thống kê GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phammancuong&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phammancuong&layout=compact)
+
+## 🌐 Kết nối với mình
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/phammancuong)
+[![Blog](https://img.shields.io/badge/-Blog-orange?style=flat&logo=wordpress&logoColor=white)](https://phammancuong.blog)
+
+## 😄 Fun facts
+- 🎯 Thích chơi CTF đêm khuya
+- 🧠 Hay vọc các tool như Nmap, Hydra, Burp Suite
+- 🐧 Chỉ dùng Linux, không thích GUI 😄
+>
